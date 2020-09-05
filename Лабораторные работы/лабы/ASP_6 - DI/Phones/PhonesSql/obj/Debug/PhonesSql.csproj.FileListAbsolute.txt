@@ -1,0 +1,206 @@
+D:\3\ПИС\sql\Phones\obj\Debug\PhonesSql.csproj.CoreCompileInputs.cache
+D:\3\ПИС\sql\Phones\bin\PhonesSql.dll.config
+D:\3\ПИС\sql\Phones\bin\PhonesSql.dll
+D:\3\ПИС\sql\Phones\bin\PhonesSql.pdb
+D:\3\ПИС\sql\Phones\bin\roslyn\csc.exe
+D:\3\ПИС\sql\Phones\bin\roslyn\csc.exe.config
+D:\3\ПИС\sql\Phones\bin\roslyn\csc.rsp
+D:\3\ПИС\sql\Phones\bin\roslyn\csi.exe
+D:\3\ПИС\sql\Phones\bin\roslyn\csi.exe.config
+D:\3\ПИС\sql\Phones\bin\roslyn\csi.rsp
+D:\3\ПИС\sql\Phones\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\3\ПИС\sql\Phones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\3\ПИС\sql\Phones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\3\ПИС\sql\Phones\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\3\ПИС\sql\Phones\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\3\ПИС\sql\Phones\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\3\ПИС\sql\Phones\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\3\ПИС\sql\Phones\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\3\ПИС\sql\Phones\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\3\ПИС\sql\Phones\bin\roslyn\Microsoft.Managed.Core.targets
+D:\3\ПИС\sql\Phones\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\3\ПИС\sql\Phones\bin\roslyn\System.AppContext.dll
+D:\3\ПИС\sql\Phones\bin\roslyn\System.Collections.Immutable.dll
+D:\3\ПИС\sql\Phones\bin\roslyn\System.Console.dll
+D:\3\ПИС\sql\Phones\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\3\ПИС\sql\Phones\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\3\ПИС\sql\Phones\bin\roslyn\System.IO.Compression.dll
+D:\3\ПИС\sql\Phones\bin\roslyn\System.IO.FileSystem.dll
+D:\3\ПИС\sql\Phones\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\3\ПИС\sql\Phones\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\3\ПИС\sql\Phones\bin\roslyn\System.IO.Pipes.dll
+D:\3\ПИС\sql\Phones\bin\roslyn\System.Reflection.Metadata.dll
+D:\3\ПИС\sql\Phones\bin\roslyn\System.Security.AccessControl.dll
+D:\3\ПИС\sql\Phones\bin\roslyn\System.Security.Claims.dll
+D:\3\ПИС\sql\Phones\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\3\ПИС\sql\Phones\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\3\ПИС\sql\Phones\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\3\ПИС\sql\Phones\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\3\ПИС\sql\Phones\bin\roslyn\System.Security.Principal.Windows.dll
+D:\3\ПИС\sql\Phones\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\3\ПИС\sql\Phones\bin\roslyn\System.ValueTuple.dll
+D:\3\ПИС\sql\Phones\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\3\ПИС\sql\Phones\bin\roslyn\System.Xml.XmlDocument.dll
+D:\3\ПИС\sql\Phones\bin\roslyn\System.Xml.XPath.dll
+D:\3\ПИС\sql\Phones\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\3\ПИС\sql\Phones\bin\roslyn\vbc.exe
+D:\3\ПИС\sql\Phones\bin\roslyn\vbc.exe.config
+D:\3\ПИС\sql\Phones\bin\roslyn\vbc.rsp
+D:\3\ПИС\sql\Phones\bin\roslyn\VBCSCompiler.exe
+D:\3\ПИС\sql\Phones\bin\roslyn\VBCSCompiler.exe.config
+D:\3\ПИС\sql\Phones\bin\Antlr3.Runtime.dll
+D:\3\ПИС\sql\Phones\bin\EntityFramework.dll
+D:\3\ПИС\sql\Phones\bin\EntityFramework.SqlServer.dll
+D:\3\ПИС\sql\Phones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\3\ПИС\sql\Phones\bin\Microsoft.Web.Infrastructure.dll
+D:\3\ПИС\sql\Phones\bin\Newtonsoft.Json.dll
+D:\3\ПИС\sql\Phones\bin\Ninject.dll
+D:\3\ПИС\sql\Phones\bin\Ninject.Extensions.NamedScope.dll
+D:\3\ПИС\sql\Phones\bin\Ninject.Web.Common.dll
+D:\3\ПИС\sql\Phones\bin\Ninject.Web.Common.WebHost.dll
+D:\3\ПИС\sql\Phones\bin\Ninject.Web.Mvc.dll
+D:\3\ПИС\sql\Phones\bin\PhonesLib.dll
+D:\3\ПИС\sql\Phones\bin\PhonesLibSql.dll
+D:\3\ПИС\sql\Phones\bin\System.Web.Helpers.dll
+D:\3\ПИС\sql\Phones\bin\System.Web.Mvc.dll
+D:\3\ПИС\sql\Phones\bin\System.Web.Optimization.dll
+D:\3\ПИС\sql\Phones\bin\System.Web.Razor.dll
+D:\3\ПИС\sql\Phones\bin\System.Web.WebPages.Deployment.dll
+D:\3\ПИС\sql\Phones\bin\System.Web.WebPages.dll
+D:\3\ПИС\sql\Phones\bin\System.Web.WebPages.Razor.dll
+D:\3\ПИС\sql\Phones\bin\WebActivatorEx.dll
+D:\3\ПИС\sql\Phones\bin\WebGrease.dll
+D:\3\ПИС\sql\Phones\bin\PhonesLibSql.pdb
+D:\3\ПИС\sql\Phones\bin\PhonesLibSql.dll.config
+D:\3\ПИС\sql\Phones\bin\PhonesLib.pdb
+D:\3\ПИС\sql\Phones\bin\EntityFramework.xml
+D:\3\ПИС\sql\Phones\bin\EntityFramework.SqlServer.xml
+D:\3\ПИС\sql\Phones\bin\Newtonsoft.Json.xml
+D:\3\ПИС\sql\Phones\bin\Ninject.xml
+D:\3\ПИС\sql\Phones\bin\Ninject.Extensions.NamedScope.xml
+D:\3\ПИС\sql\Phones\bin\Ninject.Web.Common.xml
+D:\3\ПИС\sql\Phones\bin\Ninject.Web.Common.WebHost.xml
+D:\3\ПИС\sql\Phones\bin\Ninject.Web.Mvc.xml
+D:\3\ПИС\sql\Phones\bin\System.Web.Helpers.xml
+D:\3\ПИС\sql\Phones\bin\System.Web.Mvc.xml
+D:\3\ПИС\sql\Phones\bin\System.Web.Optimization.xml
+D:\3\ПИС\sql\Phones\bin\System.Web.Razor.xml
+D:\3\ПИС\sql\Phones\bin\System.Web.WebPages.xml
+D:\3\ПИС\sql\Phones\bin\System.Web.WebPages.Deployment.xml
+D:\3\ПИС\sql\Phones\bin\System.Web.WebPages.Razor.xml
+D:\3\ПИС\sql\Phones\bin\Antlr3.Runtime.pdb
+D:\3\ПИС\sql\Phones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\3\ПИС\sql\Phones\bin\ru\System.Web.Helpers.resources.dll
+D:\3\ПИС\sql\Phones\bin\ru\System.Web.Mvc.resources.dll
+D:\3\ПИС\sql\Phones\bin\ru\System.Web.Optimization.resources.dll
+D:\3\ПИС\sql\Phones\bin\ru\System.Web.Razor.resources.dll
+D:\3\ПИС\sql\Phones\bin\ru\System.Web.WebPages.resources.dll
+D:\3\ПИС\sql\Phones\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\3\ПИС\sql\Phones\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\3\ПИС\sql\Phones\obj\Debug\PhonesSql.csprojAssemblyReference.cache
+D:\3\ПИС\sql\Phones\obj\Debug\PhonesSql.csproj.CopyComplete
+D:\3\ПИС\sql\Phones\obj\Debug\PhonesSql.dll
+D:\3\ПИС\sql\Phones\obj\Debug\PhonesSql.pdb
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\PhonesSql.dll.config
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\PhonesSql.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\PhonesSql.pdb
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\csc.exe
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\csc.exe.config
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\csc.rsp
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\csi.exe
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\csi.exe.config
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\csi.rsp
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\Microsoft.Managed.Core.targets
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\System.AppContext.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\System.Collections.Immutable.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\System.Console.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\System.IO.Compression.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\System.IO.FileSystem.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\System.IO.Pipes.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\System.Reflection.Metadata.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\System.Security.AccessControl.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\System.Security.Claims.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\System.Security.Principal.Windows.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\System.ValueTuple.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\System.Xml.XmlDocument.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\System.Xml.XPath.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\vbc.exe
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\vbc.exe.config
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\vbc.rsp
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\VBCSCompiler.exe
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\roslyn\VBCSCompiler.exe.config
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\Antlr3.Runtime.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\EntityFramework.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\EntityFramework.SqlServer.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\Microsoft.Web.Infrastructure.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\Newtonsoft.Json.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\Ninject.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\Ninject.Extensions.NamedScope.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\Ninject.Web.Common.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\Ninject.Web.Common.WebHost.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\Ninject.Web.Mvc.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\PhonesLib.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\PhonesLibSql.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\System.Web.Helpers.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\System.Web.Mvc.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\System.Web.Optimization.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\System.Web.Razor.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\System.Web.WebPages.Deployment.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\System.Web.WebPages.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\System.Web.WebPages.Razor.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\WebActivatorEx.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\WebGrease.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\PhonesLibSql.pdb
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\PhonesLibSql.dll.config
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\PhonesLib.pdb
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\EntityFramework.xml
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\EntityFramework.SqlServer.xml
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\Newtonsoft.Json.xml
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\Ninject.xml
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\Ninject.Extensions.NamedScope.xml
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\Ninject.Web.Common.xml
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\Ninject.Web.Common.WebHost.xml
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\Ninject.Web.Mvc.xml
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\System.Web.Helpers.xml
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\System.Web.Mvc.xml
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\System.Web.Optimization.xml
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\System.Web.Razor.xml
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\System.Web.WebPages.xml
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\System.Web.WebPages.Deployment.xml
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\System.Web.WebPages.Razor.xml
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\Antlr3.Runtime.pdb
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\ru\System.Web.Helpers.resources.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\ru\System.Web.Mvc.resources.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\ru\System.Web.Optimization.resources.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\ru\System.Web.Razor.resources.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\ru\System.Web.WebPages.resources.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\ru\System.Web.WebPages.Deployment.resources.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\bin\ru\System.Web.WebPages.Razor.resources.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\obj\Debug\PhonesSql.csprojAssemblyReference.cache
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\obj\Debug\PhonesSql.csproj.CoreCompileInputs.cache
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\obj\Debug\PhonesSql.csproj.CopyComplete
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\obj\Debug\PhonesSql.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesSql\obj\Debug\PhonesSql.pdb

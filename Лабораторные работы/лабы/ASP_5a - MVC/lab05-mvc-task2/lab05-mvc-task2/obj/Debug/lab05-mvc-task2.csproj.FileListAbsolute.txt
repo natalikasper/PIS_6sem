@@ -1,0 +1,166 @@
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\lab05-mvc-task2.dll.config
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\lab05-mvc-task2.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\lab05-mvc-task2.pdb
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\csc.exe
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\csc.exe.config
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\csc.rsp
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\csi.exe
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\csi.exe.config
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\csi.rsp
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.AppContext.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.Collections.Immutable.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.Console.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.IO.Compression.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.IO.FileSystem.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.IO.Pipes.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.Reflection.Metadata.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.Security.AccessControl.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.Security.Claims.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.ValueTuple.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.Xml.XPath.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\vbc.exe
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\vbc.exe.config
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\vbc.rsp
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\VBCSCompiler.exe
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\VBCSCompiler.exe.config
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\Antlr3.Runtime.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\Microsoft.Web.Infrastructure.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\Newtonsoft.Json.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\System.Web.Helpers.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\System.Web.Mvc.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\System.Web.Optimization.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\System.Web.Razor.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\System.Web.WebPages.Deployment.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\System.Web.WebPages.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\System.Web.WebPages.Razor.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\WebGrease.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\System.Web.Helpers.xml
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\System.Web.Mvc.xml
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\System.Web.Optimization.xml
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\System.Web.Razor.xml
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\System.Web.WebPages.xml
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\System.Web.WebPages.Deployment.xml
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\System.Web.WebPages.Razor.xml
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\Newtonsoft.Json.xml
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\Antlr3.Runtime.pdb
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\ru\System.Web.Helpers.resources.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\ru\System.Web.Mvc.resources.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\ru\System.Web.Optimization.resources.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\ru\System.Web.Razor.resources.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\ru\System.Web.WebPages.resources.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\obj\Debug\lab05-mvc-task2.csprojAssemblyReference.cache
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\obj\Debug\lab05-mvc-task2.csproj.CoreCompileInputs.cache
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\obj\Debug\lab05-mvc-task2.csproj.CopyComplete
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\obj\Debug\lab05-mvc-task2.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\obj\Debug\lab05-mvc-task2.pdb
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\lab05-mvc-task2.dll.config
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\lab05-mvc-task2.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\lab05-mvc-task2.pdb
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\csc.exe
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\csc.exe.config
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\csc.rsp
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\csi.exe
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\csi.exe.config
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\csi.rsp
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.AppContext.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.Collections.Immutable.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.Console.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.IO.Compression.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.IO.FileSystem.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.IO.Pipes.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.Reflection.Metadata.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.Security.AccessControl.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.Security.Claims.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.ValueTuple.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.Xml.XPath.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\vbc.exe
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\vbc.exe.config
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\vbc.rsp
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\VBCSCompiler.exe
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\roslyn\VBCSCompiler.exe.config
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\Antlr3.Runtime.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\Microsoft.Web.Infrastructure.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\Newtonsoft.Json.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\System.Web.Helpers.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\System.Web.Mvc.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\System.Web.Optimization.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\System.Web.Razor.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\System.Web.WebPages.Deployment.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\System.Web.WebPages.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\System.Web.WebPages.Razor.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\WebGrease.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\System.Web.Helpers.xml
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\System.Web.Mvc.xml
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\System.Web.Optimization.xml
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\System.Web.Razor.xml
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\System.Web.WebPages.xml
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\System.Web.WebPages.Deployment.xml
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\System.Web.WebPages.Razor.xml
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\Newtonsoft.Json.xml
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\Antlr3.Runtime.pdb
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\ru\System.Web.Helpers.resources.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\ru\System.Web.Mvc.resources.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\ru\System.Web.Optimization.resources.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\ru\System.Web.Razor.resources.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\ru\System.Web.WebPages.resources.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\obj\Debug\lab05-mvc-task2.csprojAssemblyReference.cache
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\obj\Debug\lab05-mvc-task2.csproj.CoreCompileInputs.cache
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\obj\Debug\lab05-mvc-task2.csproj.CopyComplete
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\obj\Debug\lab05-mvc-task2.dll
+D:\3\ПИС\lab05 - MVC - 3\lab05-mvc-task2\lab05-mvc-task2\obj\Debug\lab05-mvc-task2.pdb

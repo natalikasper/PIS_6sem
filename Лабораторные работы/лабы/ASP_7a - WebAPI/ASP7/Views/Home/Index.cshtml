@@ -1,0 +1,94 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>WebAPI</title>
+    <style>
+        button {
+            height: 30px;
+            width: 100px;
+            background: lightsalmon;
+            border-radius: 5px;
+        }
+
+        input {
+            height: 30px;
+            width: 160px;
+        }
+    </style>
+</head>
+<body>
+    <h2>Телефонный справочник:</h2>
+    <div id="container"></div>
+
+    <div>
+        <br/>
+        <hr />
+        <h3>Добавить новый контакт:</h3>
+        <input type="text" class="lastName" />
+        <input type="text" class="phone" />
+        <button onclick="addPhone()">Add</button>
+
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script>
+
+        function loadAll() {
+            $.getJSON("../api/TS/", function (data) {
+                var html=''
+                if (Array.isArray(data)) {
+                    for (var i in data) {
+
+                        html += '<div><input type="text" class="lastName-' + data[i].id + '" value="' + data[i].Surname + '" />' +
+                            '<input type="text" class="phone-' + data[i].id + '" value="' + data[i].Phone + '" />' +
+                            '<button onclick="updatePhone(\'' + data[i].id + '\')">Update</button>' +
+                            '<button onclick="deletePhone(\'' + data[i].id+'\')">Delete</button></div>'
+                    }
+                }
+                document.getElementById("container").innerHTML = html;
+            });
+        }
+
+        function addPhone() {
+            const Surname = $('.lastName').val();
+            const Phone = $('.phone').val();
+            fetch('../api/TS', {
+                headers: { "Content-Type": 'application/json' },
+                method: 'POST',
+                body: JSON.stringify({
+                    Surname,
+                    Phone
+                })
+            }).then(loadAll);
+        }
+
+        function updatePhone(Id) {
+            const Surname = $(`.lastName-${Id}`).val();
+            const Phone = $(`.phone-${Id}`).val();
+            fetch('../api/TS', {
+                headers: { "Content-Type": 'application/json' },
+                method: 'PUT',
+                body: JSON.stringify({
+                    Id,
+                    Surname,
+                    Phone
+                })
+            }).then(loadAll);
+        }
+
+        function deletePhone(id) {
+            fetch('../api/TS', {
+                headers: { "Content-Type": 'application/json' },
+                body: JSON.stringify(id),
+                method: 'DELETE'
+            }).then(loadAll);
+        }
+
+        loadAll();
+
+    </script>
+</body>
+</html>
+

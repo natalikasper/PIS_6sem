@@ -1,0 +1,304 @@
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\lab5b.dll.config
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\lab5b.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\lab5b.pdb
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\csc.exe
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\csc.exe.config
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\csc.rsp
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\csi.exe
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\csi.exe.config
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\csi.rsp
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\Microsoft.Managed.Core.targets
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\System.AppContext.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\System.Collections.Immutable.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\System.Console.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\System.IO.Compression.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\System.IO.FileSystem.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\System.IO.Pipes.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\System.Reflection.Metadata.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\System.Security.AccessControl.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\System.Security.Claims.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\System.Security.Principal.Windows.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\System.ValueTuple.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\System.Xml.XmlDocument.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\System.Xml.XPath.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\vbc.exe
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\vbc.exe.config
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\vbc.rsp
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\VBCSCompiler.exe
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\roslyn\VBCSCompiler.exe.config
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\Antlr3.Runtime.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\Microsoft.Web.Infrastructure.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\Newtonsoft.Json.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\System.Web.Helpers.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\System.Web.Mvc.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\System.Web.Optimization.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\System.Web.Razor.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\System.Web.WebPages.Deployment.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\System.Web.WebPages.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\System.Web.WebPages.Razor.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\WebGrease.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\System.Web.Helpers.xml
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\System.Web.Mvc.xml
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\System.Web.Optimization.xml
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\System.Web.Razor.xml
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\System.Web.WebPages.xml
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\System.Web.WebPages.Deployment.xml
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\System.Web.WebPages.Razor.xml
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\Newtonsoft.Json.xml
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\Antlr3.Runtime.pdb
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\obj\Debug\lab5b.csprojAssemblyReference.cache
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\obj\Debug\lab5b.csproj.CoreCompileInputs.cache
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\obj\Debug\lab5b.csproj.CopyComplete
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\obj\Debug\lab5b.dll
+C:\data\temp\PIS\labs\lab5b\lab5b\lab5b\obj\Debug\lab5b.pdb
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\lab5b.dll.config
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\lab5b.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\lab5b.pdb
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\csc.exe
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\csc.exe.config
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\csc.rsp
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\csi.exe
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\csi.exe.config
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\csi.rsp
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\Microsoft.Managed.Core.targets
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\System.AppContext.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\System.Collections.Immutable.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\System.Console.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\System.IO.Compression.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\System.IO.FileSystem.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\System.IO.Pipes.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\System.Reflection.Metadata.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\System.Security.AccessControl.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\System.Security.Claims.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\System.Security.Principal.Windows.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\System.ValueTuple.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\System.Xml.XmlDocument.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\System.Xml.XPath.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\vbc.exe
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\vbc.exe.config
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\vbc.rsp
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\VBCSCompiler.exe
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\roslyn\VBCSCompiler.exe.config
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\Antlr3.Runtime.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\Microsoft.Web.Infrastructure.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\Newtonsoft.Json.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\System.Web.Helpers.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\System.Web.Mvc.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\System.Web.Optimization.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\System.Web.Razor.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\System.Web.WebPages.Deployment.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\System.Web.WebPages.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\System.Web.WebPages.Razor.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\WebGrease.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\System.Web.Helpers.xml
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\System.Web.Mvc.xml
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\System.Web.Optimization.xml
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\System.Web.Razor.xml
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\System.Web.WebPages.xml
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\System.Web.WebPages.Deployment.xml
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\System.Web.WebPages.Razor.xml
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\Newtonsoft.Json.xml
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\Antlr3.Runtime.pdb
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\obj\Debug\lab5b.csprojResolveAssemblyReference.cache
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\obj\Debug\lab5b.csproj.CoreCompileInputs.cache
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\obj\Debug\lab5b.csproj.CopyComplete
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\obj\Debug\lab5b.dll
+D:\6_СЕМ\server programming\lab5b_rarrrrr\lab5b\lab5b\lab5b\obj\Debug\lab5b.pdb
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\lab5b.dll.config
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\lab5b.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\lab5b.pdb
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\csc.exe
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\csc.exe.config
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\csc.rsp
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\csi.exe
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\csi.exe.config
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\csi.rsp
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\Microsoft.Managed.Core.targets
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\System.AppContext.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\System.Collections.Immutable.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\System.Console.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\System.IO.Compression.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\System.IO.FileSystem.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\System.IO.Pipes.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\System.Reflection.Metadata.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\System.Security.AccessControl.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\System.Security.Claims.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\System.Security.Principal.Windows.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\System.ValueTuple.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\System.Xml.XmlDocument.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\System.Xml.XPath.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\vbc.exe
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\vbc.exe.config
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\vbc.rsp
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\VBCSCompiler.exe
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\roslyn\VBCSCompiler.exe.config
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\Antlr3.Runtime.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\Microsoft.Web.Infrastructure.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\Newtonsoft.Json.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\System.Web.Helpers.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\System.Web.Mvc.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\System.Web.Optimization.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\System.Web.Razor.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\System.Web.WebPages.Deployment.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\System.Web.WebPages.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\System.Web.WebPages.Razor.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\WebGrease.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\System.Web.Helpers.xml
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\System.Web.Mvc.xml
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\System.Web.Optimization.xml
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\System.Web.Razor.xml
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\System.Web.WebPages.xml
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\System.Web.WebPages.Deployment.xml
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\System.Web.WebPages.Razor.xml
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\Newtonsoft.Json.xml
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\Antlr3.Runtime.pdb
+D:\3\ПИС\lab05b - MVC - 3\lab5b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\3\ПИС\lab05b - MVC - 3\lab5b\obj\Debug\lab5b.csprojAssemblyReference.cache
+D:\3\ПИС\lab05b - MVC - 3\lab5b\obj\Debug\lab5b.csproj.CoreCompileInputs.cache
+D:\3\ПИС\lab05b - MVC - 3\lab5b\obj\Debug\lab5b.csproj.CopyComplete
+D:\3\ПИС\lab05b - MVC - 3\lab5b\obj\Debug\lab5b.dll
+D:\3\ПИС\lab05b - MVC - 3\lab5b\obj\Debug\lab5b.pdb
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\lab5b.dll.config
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\lab5b.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\lab5b.pdb
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\csc.exe
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\csc.exe.config
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\csc.rsp
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\csi.exe
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\csi.exe.config
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\csi.rsp
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\Microsoft.Managed.Core.targets
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\System.AppContext.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\System.Collections.Immutable.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\System.Console.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\System.IO.Compression.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\System.IO.FileSystem.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\System.IO.Pipes.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\System.Reflection.Metadata.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\System.Security.AccessControl.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\System.Security.Claims.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\System.Security.Principal.Windows.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\System.ValueTuple.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\System.Xml.XmlDocument.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\System.Xml.XPath.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\vbc.exe
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\vbc.exe.config
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\vbc.rsp
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\VBCSCompiler.exe
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\roslyn\VBCSCompiler.exe.config
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\Antlr3.Runtime.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\Microsoft.Web.Infrastructure.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\Newtonsoft.Json.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\System.Web.Helpers.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\System.Web.Mvc.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\System.Web.Optimization.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\System.Web.Razor.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\System.Web.WebPages.Deployment.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\System.Web.WebPages.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\System.Web.WebPages.Razor.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\WebGrease.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\System.Web.Helpers.xml
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\System.Web.Mvc.xml
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\System.Web.Optimization.xml
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\System.Web.Razor.xml
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\System.Web.WebPages.xml
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\System.Web.WebPages.Deployment.xml
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\System.Web.WebPages.Razor.xml
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\Newtonsoft.Json.xml
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\Antlr3.Runtime.pdb
+D:\3\ПИС\ASP5b - MVC\lab5b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\3\ПИС\ASP5b - MVC\lab5b\obj\Debug\lab5b.csprojAssemblyReference.cache
+D:\3\ПИС\ASP5b - MVC\lab5b\obj\Debug\lab5b.csproj.CoreCompileInputs.cache
+D:\3\ПИС\ASP5b - MVC\lab5b\obj\Debug\lab5b.csproj.CopyComplete
+D:\3\ПИС\ASP5b - MVC\lab5b\obj\Debug\lab5b.dll
+D:\3\ПИС\ASP5b - MVC\lab5b\obj\Debug\lab5b.pdb

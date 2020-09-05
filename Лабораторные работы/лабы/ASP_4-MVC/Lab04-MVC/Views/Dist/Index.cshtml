@@ -1,0 +1,49 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+    <div class="jumbotron">
+        <div class="row">
+            <div class="col-md-6">
+                <h2>Lab04 Phonebook</h2>
+                <table class="table table-bordered table-striped">
+                    <thead class="thead-dark">
+                        <tr>
+                            <td>Name</td>
+                            <td>Phone Number</td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (ViewBag.Contacts != null)
+                        {
+                            foreach (var contact in (ViewBag.Contacts as List<Lab04_MVC.Models.Contact>))
+                            {
+                        <tr>
+                            <td>@contact.Name</td>
+                            <td>@contact.PhoneNumber</td>
+                            <td>
+                                <p><a class="btn btn-default" href="/Dist/Update/@contact.Id">Update &raquo;</a></p>
+                            </td>
+                            <td>
+                                <p><a class="btn btn-default" href="/Dist/Delete/@contact.Id">Delete &raquo;</a></p>
+                            </td>
+                        </tr>
+                            }
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <p><a class="btn btn-default" href="/Dist/Add">Add new phone number &raquo;</a></p>
+            </div>
+            <div class="col-md-4">
+            </div>
+            <div class="col-md-4">
+            </div>
+        </div>
+    </div>
+

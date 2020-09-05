@@ -1,0 +1,26 @@
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\PhonesLib\bin\Debug\PhonesLib.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\PhonesLib\bin\Debug\PhonesLib.pdb
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\PhonesLib\bin\Debug\Newtonsoft.Json.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\PhonesLib\bin\Debug\Newtonsoft.Json.xml
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\PhonesLib\obj\Debug\PhonesLib.csproj.CoreCompileInputs.cache
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\PhonesLib\obj\Debug\PhonesLib.csproj.CopyComplete
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\PhonesLib\obj\Debug\PhonesLib.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\PhonesLib\obj\Debug\PhonesLib.pdb
+D:\3\ПИС\lab06 - DI\Phones\PhonesLib\bin\Debug\PhonesLib.dll
+D:\3\ПИС\lab06 - DI\Phones\PhonesLib\bin\Debug\PhonesLib.pdb
+D:\3\ПИС\lab06 - DI\Phones\PhonesLib\bin\Debug\Newtonsoft.Json.dll
+D:\3\ПИС\lab06 - DI\Phones\PhonesLib\bin\Debug\Newtonsoft.Json.xml
+D:\3\ПИС\lab06 - DI\Phones\PhonesLib\obj\Debug\PhonesLib.csprojAssemblyReference.cache
+D:\3\ПИС\lab06 - DI\Phones\PhonesLib\obj\Debug\PhonesLib.csproj.CoreCompileInputs.cache
+D:\3\ПИС\lab06 - DI\Phones\PhonesLib\obj\Debug\PhonesLib.csproj.CopyComplete
+D:\3\ПИС\lab06 - DI\Phones\PhonesLib\obj\Debug\PhonesLib.dll
+D:\3\ПИС\lab06 - DI\Phones\PhonesLib\obj\Debug\PhonesLib.pdb
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesLib\bin\Debug\PhonesLib.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesLib\bin\Debug\PhonesLib.pdb
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesLib\bin\Debug\Newtonsoft.Json.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesLib\bin\Debug\Newtonsoft.Json.xml
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesLib\obj\Debug\PhonesLib.csprojAssemblyReference.cache
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesLib\obj\Debug\PhonesLib.csproj.CoreCompileInputs.cache
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesLib\obj\Debug\PhonesLib.csproj.CopyComplete
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesLib\obj\Debug\PhonesLib.dll
+F:\6 семестр\ПИС\лабы\ASP_6 - DI\Phones\PhonesLib\obj\Debug\PhonesLib.pdb

@@ -1,0 +1,229 @@
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\ASP7.2.dll.config
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\ASP7.2.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\ASP7.2.pdb
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\csc.exe
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\csc.exe.config
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\csc.rsp
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\csi.exe
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\csi.exe.config
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\csi.rsp
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\System.AppContext.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\System.Collections.Immutable.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\System.Console.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\System.IO.Compression.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\System.IO.FileSystem.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\System.IO.Pipes.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\System.Reflection.Metadata.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\System.Security.AccessControl.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\System.Security.Claims.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\System.ValueTuple.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\System.Xml.XPath.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\vbc.exe
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\vbc.exe.config
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\vbc.rsp
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\VBCSCompiler.exe
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\roslyn\VBCSCompiler.exe.config
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\DLLEntity.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\DllJSON1.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\Microsoft.Web.Infrastructure.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\Ninject.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\Ninject.Extensions.NamedScope.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\Ninject.Web.Common.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\Ninject.Web.Common.WebHost.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\WebActivatorEx.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\EntityFramework.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\Newtonsoft.Json.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\DLLEntity.pdb
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\DLLEntity.dll.config
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\DllJSON1.pdb
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\Ninject.xml
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\Ninject.Extensions.NamedScope.xml
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\Ninject.Web.Common.xml
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\Ninject.Web.Common.WebHost.xml
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\EntityFramework.xml
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\Newtonsoft.Json.xml
+E:\Program Files\ASP\ASP7.2\ASP7.2\obj\Debug\ASP7.2.csprojAssemblyReference.cache
+E:\Program Files\ASP\ASP7.2\ASP7.2\obj\Debug\ASP7.2.csproj.CoreCompileInputs.cache
+E:\Program Files\ASP\ASP7.2\ASP7.2\obj\Debug\ASP7.2.csproj.CopyComplete
+E:\Program Files\ASP\ASP7.2\ASP7.2\obj\Debug\ASP7.2.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\obj\Debug\ASP7.2.pdb
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\EntityFramework.SqlServer.dll
+E:\Program Files\ASP\ASP7.2\ASP7.2\bin\EntityFramework.SqlServer.xml
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\obj\Debug\ASP7.2.csprojAssemblyReference.cache
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\obj\Debug\ASP7.2.csproj.CoreCompileInputs.cache
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\obj\Debug\ASP7.2.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\obj\Debug\ASP7.2.pdb
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\ASP7.2.dll.config
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\ASP7.2.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\ASP7.2.pdb
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\csc.exe
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\csc.exe.config
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\csc.rsp
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\csi.exe
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\csi.exe.config
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\csi.rsp
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\System.AppContext.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\System.Collections.Immutable.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\System.Console.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\System.IO.Compression.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\System.IO.FileSystem.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\System.IO.Pipes.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\System.Reflection.Metadata.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\System.Security.AccessControl.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\System.Security.Claims.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\System.ValueTuple.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\System.Xml.XPath.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\vbc.exe
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\vbc.exe.config
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\vbc.rsp
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\VBCSCompiler.exe
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\roslyn\VBCSCompiler.exe.config
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\DLLEntity.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\DllJSON1.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\EntityFramework.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\EntityFramework.SqlServer.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\Microsoft.Web.Infrastructure.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\Newtonsoft.Json.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\Ninject.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\Ninject.Extensions.NamedScope.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\Ninject.Web.Common.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\Ninject.Web.Common.WebHost.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\WebActivatorEx.dll
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\DLLEntity.pdb
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\DLLEntity.dll.config
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\DllJSON1.pdb
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\EntityFramework.xml
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\EntityFramework.SqlServer.xml
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\Newtonsoft.Json.xml
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\Ninject.xml
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\Ninject.Extensions.NamedScope.xml
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\Ninject.Web.Common.xml
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\Ninject.Web.Common.WebHost.xml
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\3\ПИС\ASP7b - ASMX\ASP7.2\obj\Debug\ASP7.2.csproj.CopyComplete
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\ASP7.2.dll.config
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\ASP7.2.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\ASP7.2.pdb
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\csc.exe
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\csc.exe.config
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\csc.rsp
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\csi.exe
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\csi.exe.config
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\csi.rsp
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\System.AppContext.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\System.Collections.Immutable.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\System.Console.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\System.IO.Compression.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\System.IO.FileSystem.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\System.IO.Pipes.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\System.Reflection.Metadata.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\System.Security.AccessControl.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\System.Security.Claims.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\System.ValueTuple.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\System.Xml.XPath.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\vbc.exe
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\vbc.exe.config
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\vbc.rsp
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\VBCSCompiler.exe
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\roslyn\VBCSCompiler.exe.config
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\EntityFramework.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\EntityFramework.SqlServer.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\Microsoft.Web.Infrastructure.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\Newtonsoft.Json.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\Ninject.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\Ninject.Extensions.NamedScope.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\Ninject.Web.Common.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\Ninject.Web.Common.WebHost.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\WebActivatorEx.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\DLLEntity.pdb
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\DLLEntity.dll.config
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\DllJSON1.pdb
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\EntityFramework.xml
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\EntityFramework.SqlServer.xml
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\Newtonsoft.Json.xml
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\Ninject.xml
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\Ninject.Extensions.NamedScope.xml
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\Ninject.Web.Common.xml
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\Ninject.Web.Common.WebHost.xml
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\obj\Debug\ASP7.2.csprojAssemblyReference.cache
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\obj\Debug\ASP7.2.csproj.CoreCompileInputs.cache
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\obj\Debug\ASP7.2.csproj.CopyComplete
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\obj\Debug\ASP7.2.dll
+D:\3\ПИС\ASP_7b - ASMX\ASP7.2\obj\Debug\ASP7.2.pdb

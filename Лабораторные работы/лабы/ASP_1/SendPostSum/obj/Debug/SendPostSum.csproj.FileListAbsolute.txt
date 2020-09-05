@@ -1,0 +1,10 @@
+E:\Program Files\ASP\ASP2\SendPostSum\bin\Debug\SendPostSum.exe.config
+E:\Program Files\ASP\ASP2\SendPostSum\bin\Debug\SendPostSum.exe
+E:\Program Files\ASP\ASP2\SendPostSum\bin\Debug\SendPostSum.pdb
+E:\Program Files\ASP\ASP2\SendPostSum\obj\Debug\SendPostSum.csprojAssemblyReference.cache
+E:\Program Files\ASP\ASP2\SendPostSum\obj\Debug\SendPostSum.Form1.resources
+E:\Program Files\ASP\ASP2\SendPostSum\obj\Debug\SendPostSum.Properties.Resources.resources
+E:\Program Files\ASP\ASP2\SendPostSum\obj\Debug\SendPostSum.csproj.GenerateResource.cache
+E:\Program Files\ASP\ASP2\SendPostSum\obj\Debug\SendPostSum.csproj.CoreCompileInputs.cache
+E:\Program Files\ASP\ASP2\SendPostSum\obj\Debug\SendPostSum.exe
+E:\Program Files\ASP\ASP2\SendPostSum\obj\Debug\SendPostSum.pdb

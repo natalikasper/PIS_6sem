@@ -1,0 +1,219 @@
+E:\Program Files\ASP\Lab2b\Lab2b\bin\Lab2b.dll.config
+E:\Program Files\ASP\Lab2b\Lab2b\bin\Lab2b.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\Lab2b.pdb
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\csc.exe
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\csc.exe.config
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\csc.rsp
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\csi.exe
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\csi.exe.config
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\csi.rsp
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\System.AppContext.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\System.Collections.Immutable.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\System.Console.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\System.IO.Compression.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\System.IO.FileSystem.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\System.IO.Pipes.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\System.Reflection.Metadata.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\System.Security.AccessControl.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\System.Security.Claims.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\System.ValueTuple.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\System.Xml.XPath.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\vbc.exe
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\vbc.exe.config
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\vbc.rsp
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\VBCSCompiler.exe
+E:\Program Files\ASP\Lab2b\Lab2b\bin\roslyn\VBCSCompiler.exe.config
+E:\Program Files\ASP\Lab2b\Lab2b\bin\Antlr3.Runtime.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\AspNet.ScriptManager.jQuery.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\Microsoft.Web.Infrastructure.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\Newtonsoft.Json.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\System.Web.Optimization.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\WebGrease.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\System.Web.Optimization.xml
+E:\Program Files\ASP\Lab2b\Lab2b\bin\Newtonsoft.Json.xml
+E:\Program Files\ASP\Lab2b\Lab2b\bin\Antlr3.Runtime.pdb
+E:\Program Files\ASP\Lab2b\Lab2b\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Program Files\ASP\Lab2b\Lab2b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Program Files\ASP\Lab2b\Lab2b\bin\ru\System.Web.Optimization.resources.dll
+E:\Program Files\ASP\Lab2b\Lab2b\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\Program Files\ASP\Lab2b\Lab2b\obj\Debug\Lab2b.csprojAssemblyReference.cache
+E:\Program Files\ASP\Lab2b\Lab2b\obj\Debug\Lab2b.csproj.CoreCompileInputs.cache
+E:\Program Files\ASP\Lab2b\Lab2b\obj\Debug\Lab2b.csproj.CopyComplete
+E:\Program Files\ASP\Lab2b\Lab2b\obj\Debug\Lab2b.dll
+E:\Program Files\ASP\Lab2b\Lab2b\obj\Debug\Lab2b.pdb
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\Lab2b.dll.config
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\Lab2b.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\Lab2b.pdb
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\csc.exe
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\csc.exe.config
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\csc.rsp
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\csi.exe
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\csi.exe.config
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\csi.rsp
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\Microsoft.CodeAnalysis.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\Microsoft.CSharp.Core.targets
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\Microsoft.Managed.Core.targets
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\Microsoft.VisualBasic.Core.targets
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\System.AppContext.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\System.Collections.Immutable.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\System.Console.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\System.Diagnostics.StackTrace.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\System.IO.Compression.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\System.IO.FileSystem.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\System.IO.FileSystem.Primitives.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\System.IO.Pipes.AccessControl.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\System.IO.Pipes.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\System.Reflection.Metadata.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\System.Security.AccessControl.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\System.Security.Claims.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\System.Security.Cryptography.Encoding.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\System.Security.Cryptography.Primitives.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\System.Security.Principal.Windows.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\System.Text.Encoding.CodePages.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\System.ValueTuple.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\System.Xml.ReaderWriter.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\System.Xml.XmlDocument.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\System.Xml.XPath.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\System.Xml.XPath.XDocument.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\vbc.exe
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\vbc.exe.config
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\vbc.rsp
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\VBCSCompiler.exe
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\roslyn\VBCSCompiler.exe.config
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\Antlr3.Runtime.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\AspNet.ScriptManager.bootstrap.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\AspNet.ScriptManager.jQuery.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\Microsoft.AspNet.FriendlyUrls.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\Microsoft.ScriptManager.MSAjax.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\Microsoft.ScriptManager.WebForms.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\Microsoft.Web.Infrastructure.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\Newtonsoft.Json.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\System.Web.Optimization.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\WebGrease.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\System.Web.Optimization.xml
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\Newtonsoft.Json.xml
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\Antlr3.Runtime.pdb
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\Microsoft.AspNet.FriendlyUrls.xml
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\ru\System.Web.Optimization.resources.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\obj\Debug\Lab2b.csprojAssemblyReference.cache
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\obj\Debug\Lab2b.csproj.CoreCompileInputs.cache
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\obj\Debug\Lab2b.csproj.CopyComplete
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\obj\Debug\Lab2b.dll
+e:\3 курс 2 сем\лабки\Lab2b\Lab2b\obj\Debug\Lab2b.pdb
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\Lab2b.dll.config
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\Lab2b.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\Lab2b.pdb
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\csc.exe
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\csc.exe.config
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\csc.rsp
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\csi.exe
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\csi.exe.config
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\csi.rsp
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\Microsoft.Managed.Core.targets
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\System.AppContext.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\System.Collections.Immutable.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\System.Console.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\System.IO.Compression.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\System.IO.FileSystem.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\System.IO.Pipes.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\System.Reflection.Metadata.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\System.Security.AccessControl.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\System.Security.Claims.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\System.Security.Principal.Windows.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\System.ValueTuple.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\System.Xml.XmlDocument.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\System.Xml.XPath.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\vbc.exe
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\vbc.exe.config
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\vbc.rsp
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\VBCSCompiler.exe
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\roslyn\VBCSCompiler.exe.config
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\Antlr3.Runtime.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\AspNet.ScriptManager.bootstrap.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\AspNet.ScriptManager.jQuery.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\Microsoft.ScriptManager.WebForms.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\Microsoft.Web.Infrastructure.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\Newtonsoft.Json.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\System.Web.Optimization.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\WebGrease.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\System.Web.Optimization.xml
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\Newtonsoft.Json.xml
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\Antlr3.Runtime.pdb
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\ru\System.Web.Optimization.resources.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\obj\Debug\Lab2b.csprojAssemblyReference.cache
+F:\6 семестр\ПИС\Lab2b\Lab2b\obj\Debug\Lab2b.csproj.CopyComplete
+F:\6 семестр\ПИС\Lab2b\Lab2b\obj\Debug\Lab2b.dll
+F:\6 семестр\ПИС\Lab2b\Lab2b\obj\Debug\Lab2b.pdb
+F:\6 семестр\ПИС\Lab2b\Lab2b\obj\Debug\Lab2b.csproj.CoreCompileInputs.cache

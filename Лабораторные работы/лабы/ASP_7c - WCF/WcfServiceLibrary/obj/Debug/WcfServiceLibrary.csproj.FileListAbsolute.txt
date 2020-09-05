@@ -1,0 +1,25 @@
+E:\Program Files\ASP\ASP7.3\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll.config
+E:\Program Files\ASP\ASP7.3\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll
+E:\Program Files\ASP\ASP7.3\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.pdb
+E:\Program Files\ASP\ASP7.3\WcfServiceLibrary\bin\Debug\EntityFramework.dll
+E:\Program Files\ASP\ASP7.3\WcfServiceLibrary\bin\Debug\EntityFramework.SqlServer.dll
+E:\Program Files\ASP\ASP7.3\WcfServiceLibrary\bin\Debug\EntityFramework.xml
+E:\Program Files\ASP\ASP7.3\WcfServiceLibrary\bin\Debug\EntityFramework.SqlServer.xml
+E:\Program Files\ASP\ASP7.3\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csproj.CoreCompileInputs.cache
+E:\Program Files\ASP\ASP7.3\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csproj.CopyComplete
+E:\Program Files\ASP\ASP7.3\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.dll
+E:\Program Files\ASP\ASP7.3\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.pdb
+D:\3\ПИС\ASP_7c - WCF\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll.config
+D:\3\ПИС\ASP_7c - WCF\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll
+D:\3\ПИС\ASP_7c - WCF\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.pdb
+D:\3\ПИС\ASP_7c - WCF\WcfServiceLibrary\bin\Debug\EntityFramework.dll
+D:\3\ПИС\ASP_7c - WCF\WcfServiceLibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\3\ПИС\ASP_7c - WCF\WcfServiceLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\3\ПИС\ASP_7c - WCF\WcfServiceLibrary\bin\Debug\EntityFramework.xml
+D:\3\ПИС\ASP_7c - WCF\WcfServiceLibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\3\ПИС\ASP_7c - WCF\WcfServiceLibrary\bin\Debug\Newtonsoft.Json.xml
+D:\3\ПИС\ASP_7c - WCF\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csprojAssemblyReference.cache
+D:\3\ПИС\ASP_7c - WCF\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csproj.CoreCompileInputs.cache
+D:\3\ПИС\ASP_7c - WCF\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csproj.CopyComplete
+D:\3\ПИС\ASP_7c - WCF\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.dll
+D:\3\ПИС\ASP_7c - WCF\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.pdb
